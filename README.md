@@ -1,1 +1,2 @@
-# atomical
+# ColdZ
+A discord bot
